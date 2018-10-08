@@ -1,3 +1,5 @@
+/* stabilizing context in 800px for larger view port*/
+
 header {
 	width: 800px;
 	margin-left: auto;
@@ -12,6 +14,7 @@ header {
 	margin-right: auto;
 }
 
+/* put the projects at 1/3 screen width so displayed horizontally */
 .prj {
 	width: 33%;
 }

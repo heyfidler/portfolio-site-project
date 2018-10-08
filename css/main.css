@@ -5,6 +5,10 @@ body {
 	color: #2d3c49;
 }
 
+body {
+	font-family: sans-serif;
+}
+
 header {
 	overflow: hidden;
 }
@@ -26,10 +30,6 @@ header {
 	text-align: right;
 	height: 100%;
 	margin: 0 auto;
-}
-
-body {
-	font-family: sans-serif;
 }
 
 .img-container {
