@@ -53,7 +53,7 @@ body {
 	text-align: center;
 }
 
-.prj img {
+.prj-img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -65,11 +65,11 @@ body {
 	margin-bottom: 30px;
 }
 
-.prj h3 {
+.prj-header {
 	margin-bottom: 5px;
 }
 
-.prj span {
+.prj-text {
 	font-size: smaller;
 	overflow-wrap: break-word;
 }
@@ -77,14 +77,6 @@ body {
 .projects-container {
 	color: #7d97ad;
 	margin: 0px 40px 0px 0px;
-}
-
-.box {
-	min-height: 150px;
-}
-
-.text-container {
-	margin: 40px;
 }
 
 .container {
