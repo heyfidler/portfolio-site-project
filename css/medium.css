@@ -1,24 +1,3 @@
-.dark_blue {
+.prj {
 	width: 100%;
-	order: 1;
-}
-
-.light_blue {
-	width: 50%;
-	order: 2;
-}
-
-.green {
-	width: 50%;
-	order: 3;
-}
-
-.red {
-	width: 33.3%;
-	order: 4;
-}
-
-.orange {
-	width: 66.6%;
-	order: 5;
 }
